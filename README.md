@@ -46,6 +46,7 @@ To use this project, you will need a SQL database (e.g., MySQL, PostgreSQL, or S
 Clone the repository:
 
 Bash
+https://github.com/arpitaparmar1/sql-project-pizza_sales
 
 git clone [repository-url]
 
